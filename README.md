@@ -4,10 +4,6 @@
 >🗡 the Sinister Blade
 >
 
-## demo video
-
-![](katarina.mov)
-
-## test demo
+## Quick glance
 
 ![](kat.gif)
