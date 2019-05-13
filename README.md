@@ -10,13 +10,13 @@
 
 ## How to Run (using Makefile)
 
-```
+```bash
 # compile all files
-make all
+> make all
 
 # run compiled program
-make run
+> make run
 
 # clean/ delete compiled
-make clean
+> make clean
 ```
